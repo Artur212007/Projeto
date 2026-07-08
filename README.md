@@ -89,7 +89,7 @@ Depois de subir o container, copie o `.env` do backend e inicie a API:
 cd backend
 cp .env.example .env   # PowerShell: Copy-Item .env.example .env
 npm install
-npm start
+node server.js
 ```
 
 Agora abra o frontend normalmente (`cd frontend && npm run dev`).

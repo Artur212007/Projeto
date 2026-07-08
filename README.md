@@ -65,7 +65,7 @@ cp .env.example .env
 ```
 
 - Valores padrões no `.env.example` apontam para um MySQL local em `localhost:3306`.
-- Certifique-se de ter o MySQL rodando e com o banco `toolmaster` criado, ou ajuste `DB_NAME`.
+- Certifique-se de ter o MySQL rodando e com o banco `loja_de_ferramentas` criado, ou ajuste `DB_NAME`.
 
 ## 🐳 Rodar o banco com Docker Compose
 

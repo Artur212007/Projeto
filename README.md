@@ -32,7 +32,7 @@ Estrutura reorganizada com separação clara entre frontend e backend.
 ```bash
 cd backend
 npm install
-npm start
+node server.js
 ```
 
 ### Frontend (Porta 5173)
